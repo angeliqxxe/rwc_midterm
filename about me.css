@@ -1,0 +1,37 @@
+.navbar {
+    list-style-type: none; margin: 5;
+    padding: 0; overflow: hidden;
+    }
+    .navbar li { float: right;
+    }
+    .navbar li a {
+    display: block;
+    color:#1E1E1E; text-align: center; padding: 55px 30px; text-decoration:none; font-size: 30px;
+    font-style: italic;font-family: 'Alegreya SC';font-weight: 400;line-height: 41px;text-align: center;
+    }
+.navbar {
+    font-style: italic; font-family:Georgia
+}
+.navbar {
+    font-style: italic; font-family:Georgia
+}
+body{
+    background-color: #A0DD9E;
+}
+p {
+    position: absolute;
+width: 1045px;
+height: 506px;
+left: 190px;
+top: 236px;
+
+font-family: 'Alice';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 34px;
+
+color: rgba(0, 0, 0, 0.76);
+
+}
+

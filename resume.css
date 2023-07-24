@@ -1,0 +1,137 @@
+.navbar {
+    list-style-type: none; margin: 5;
+    padding: 0; overflow: hidden;
+    }
+    .navbar li { float: right;
+    }
+    .navbar li a {
+    display: block;
+    color:#1E1E1E; text-align: center; padding: 55px 30px; text-decoration:none; font-size: 30px;
+    font-style: italic;font-family: 'Alegreya SC';font-weight: 400;line-height: 41px;text-align: center;
+    }
+.navbar {
+    font-style: italic; font-family:Georgia
+}
+.navbar {
+    font-style: italic; font-family:Georgia
+}
+body{
+    background-color: #A0DD9E;
+}
+div{
+position: absolute;
+width: 254px;
+height: 37px;
+left:105px;
+top: 254px;
+font-style: normal;
+font-weight: 600px;
+font-size: 32px;
+line-height: 37px;
+color: #1E1E1E;
+}
+ul.a{
+position: absolute;
+width: 530px;
+height: 209px;
+left: 130px;
+top: 268px;
+
+font-family: 'Alice';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+
+color: #1E1E1E;
+}
+p{
+position: absolute;
+width: 151px;
+height: 90px;
+left: 105px;
+top: 420px;
+font-style: normal;
+font-size: 32px;
+color: #1E1E1E;
+}
+ul.b{
+position: absolute;
+width: 530px;
+height: 209px;
+left: 130px;
+top: 475px;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+color: #1E1E1E;
+}
+h2{
+    position: absolute;
+    width: 254px;
+    height: 37px;
+    left: 706px;
+    top: 1px;
+    
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    color: #1E1E1E; 
+}
+h1{
+position: absolute;
+  width: 400px;
+  height: 65px;
+  left: 706px;
+  top: 1px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 37px;
+  
+  color: #1E1E1E;
+}
+ul.c{
+position: absolute;
+width: 498px;
+height: 207px;
+left: 682px;
+top: 1px;
+
+font-family: 'Alice';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+color: #1E1E1E;
+}
+h3{
+position: absolute;
+width: 254px;
+height: 37px;
+left: 640px;
+top: 1px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 37px;
+  
+  color: #1E1E1E;
+}
+ul.d{
+position: absolute;
+width: 485px;
+height: 108px;
+left: 655px;
+top: 80px;
+font-family: 'Alice';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+color: rgba(0, 0, 0, 0.76);
+}
