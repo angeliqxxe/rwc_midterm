@@ -1,106 +1,108 @@
 .navbar {
-  list-style-type: none; margin: 5;
-  padding: 0; overflow: hidden;
+    list-style-type: none; margin: 5;
+    padding: 0; overflow: hidden;
+    }
+    .navbar li { float: right;
+    }
+    .navbar li a {
+    display: block;
+    color:#1E1E1E; text-align: center; padding: 55px 30px; text-decoration:none; font-size: 30px;
+    font-style: italic;font-family: 'Alegreya SC';font-weight: 400;line-height: 41px;text-align: center;
+    }
+  .navbar {
+    font-style: italic; font-family:Georgia
   }
-  .navbar li { float: right;
+  .navbar {
+    font-style: italic; font-family:Georgia
   }
-  .navbar li a {
-  display: block;
-  color:#1E1E1E; text-align: center; padding: 55px 30px; text-decoration:none; font-size: 30px;
-  font-style: italic;font-family: 'Alegreya SC';font-weight: 400;line-height: 41px;text-align: center;
-  }
-.navbar {
-  font-style: italic; font-family:Georgia
-}
-.navbar {
-  font-style: italic; font-family:Georgia
-}
-p {
-position: absolute;
-width: 60px;
-height: 300px;
-left: 700px;
-top: 230px;
-
-font-family: 'Vollkorn';
-font-style: normal;
-font-weight: 400;
-font-size: 27px;
-line-height: 38px;
-
-color: rgba(0, 0, 0, 0.77);
-}
-form {
+  p {
   position: absolute;
-  width: 250px;
-  height: 250px;
-  left: 100px;
-  top: 240px;
-    text-align: left;
-    font-size: 25px
-}
-textarea {
-    width: 100%;
-    height: 150px;
-    padding: 12px 20px;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    background-color: #f8f8f8;
-    font-size: 16px;
-    resize: none;
+  width: 600px;
+  height: 50px;
+  left: 700px;
+  top: 230px;
+  
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 38px;
+  
+  color: rgba(0, 0, 0, 0.77);
   }
-  input[type=button], input[type=submit], input[type=reset] {
-    background-color: #FFFFFF;
-    border: none;
-    color: #A0DD9E;
-position: absolute;
-width: 130px;
-height: 60px;
-left: 190px;
-top: 470px;
-
-background: #FFFFFF;
-
+  form {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 100px;
+    top: 240px;
+      text-align: left;
+      font-size: 25px
   }
-  input[type=text], input[type=fname], input[type=fname] {
-    background-color: #FFFFFF;
-    border: none;
-    width: 210%;
-    height:18%
+  textarea {
+      width: 100%;
+      height: 150px;
+      padding: 12px 20px;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+      background-color: #f8f8f8;
+      font-size: 16px;
+      resize: none;
+    }
+    input[type=button], input[type=submit], input[type=reset] {
+      background-color: #FFFFFF;
+      border: none;
+      color: #A0DD9E;
+      font-size: 30px;
+  position: absolute;
+  width: 130px;
+  height: 60px;
+  left: 190px;
+  top: 470px;
+  
+  background: #FFFFFF;
+  
+    }
+    input[type=text], input[type=fname], input[type=fname] {
+      background-color: #FFFFFF;
+      border: none;
+      width: 210%;
+      height:18%
+    }
+    input [type=email], input[type=email], input[type=email] {
+      background-color: #FFFFFF;
+      border: none;
+      width: 210%;
+      height:18%
+    }
+    input[type=textarea], input[type=message], input[type=message] {
+      border: none;
+      width: 210%;
+      height:70%
+    }
+    body{
+      background-color: #A0DD9E;
+    }
+  img {
+    display: block;
+    color:hsl(0, 0%, 12%); text-align: center; padding: 30px 7px; text-decoration:none; font-size: 20px
+    }
+  div{
+  position: absolute;
+  width: 38px;
+  height: 103px;
+  left: 730px;
+  top: 630px;
+  
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 39px;
+  
+  color: rgba(0, 0, 0, 0.87);
+  
+  
   }
-  input [type=email], input[type=email], input[type=email] {
-    background-color: #FFFFFF;
-    border: none;
-    width: 210%;
-    height:18%
-  }
-  input[type=textarea], input[type=message], input[type=message] {
-    border: none;
-    width: 210%;
-    height:70%
-  }
-  body{
-    background-color: #A0DD9E;
-  }
-img {
-  display: block;
-  color:hsl(0, 0%, 12%); text-align: center; padding: 30px 7px; text-decoration:none; font-size: 20px
-  }
-div{
-position: absolute;
-width: 488px;
-height: 103px;
-left: 730px;
-top: 580px;
-
-font-family: 'Vollkorn';
-font-style: normal;
-font-weight: 600;
-font-size: 28px;
-line-height: 39px;
-
-color: rgba(0, 0, 0, 0.87);
-
-
-}
+  
